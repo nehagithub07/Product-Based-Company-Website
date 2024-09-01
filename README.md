@@ -1,11 +1,14 @@
+
 # LAZAREV. 🪀 — Digital Product Design Agency
 
 ## Project Overview
 
 Welcome to the LAZAREV. 🪀 Digital Product Design Agency project. This project showcases a visually engaging and interactive digital product design website with award-winning UX and UI design. The website leverages modern web technologies to provide a smooth scrolling experience, interactive animations, and dynamic content presentation.
 
-Live Demo
-Check out the live version of the project here.
+## Live Demo
+
+Check out the live version of the project [here](https://product-based-company-website.vercel.app/).
+
 ## Features
 
 - **Smooth Scrolling:** Utilizes Locomotive Scroll for a smooth scrolling experience across devices.
@@ -73,3 +76,6 @@ To run this project locally, follow these steps:
 - **Navigating the Website:** Hover over navigation elements to reveal additional content.
 - **Video Interactions:** Click on videos to play or pause, with accompanying animations.
 - **Scroll Effects:** Observe dynamic content changes and animations as you scroll through the website.
+
+
+Feel free to replace `<repository-url>` and `<project-directory>` with the actual URL and directory name, and update the contact details as needed.
